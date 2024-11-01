@@ -1,0 +1,27 @@
+2021-12-20 19:38:38 INFO  Base:35 - Remote WebDriver capability instantiation
+2021-12-20 19:38:49 INFO  Base:55 - Remote WebDriver is instantiated
+2021-12-20 19:38:49 INFO  Base:104 - Launched chrome browser
+2021-12-20 19:38:49 INFO  Base:154 - Waiting for 1 seconds to launch the URL
+2021-12-20 19:38:50 INFO  Base:156 - Enter the URL 'https://www.bcferries.com/'
+2021-12-20 19:40:56 INFO  Base:668 - no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="y_outbound"]/div/div/div[3]/div[1]/div[3]/div[2]/ul[1]/li/div[1]/div[2]/div/div/div/label"}
+  (Session info: chrome=94.0.4606.61)
+  (Driver info: chromedriver=94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}),platform=Linux 4.1.13-101.fc21.x86_64 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.37 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'BCFS33487', ip: '172.16.193.77', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.android.chrome, chromedriverPorts=[[18155.0, 18165.0]], deviceName=R5CN211ZNYZ, acceptSslCerts=false, webStorageEnabled=false, acceptSslCert=false, browserName=chrome, javascriptEnabled=true, real_mobile=true, skipServerInstallation=true, 64bit=false, enablePerformanceLogging=false, systemPort=8205.0, chromedriverPort=18085.0, new_bucketing=true, version=, appActivity=com.google.android.apps.chrome.Main, browser_name=Android, realMobile=true, pixelRatio=2.8125, deviceScreenDensity=450.0, device=Samsung Galaxy S20 Plus, browserstack.is_hub_canary=false, statBarHeight=72.0, loggingPrefs={browser=SEVERE}, viewportRect={top=72.0, left=0.0, width=1080.0, height=2120.0}, platform=ANDROID, deviceUDID=R5CN211ZNYZ, osVersion=10.0, detected_language=Apache-HttpClient/4.5.3 (Java/1.8.0_291), newCommandTimeout=0.0, browser=chrome_android, platformVersion=10, takesScreenshot=true, udid=R5CN211ZNYZ, platformName=Android, deviceApiLevel=29.0, deviceManufacturer=samsung, deviceScreenSize=1080x2400, networkConnectionEnabled=true, orientation=PORTRAIT, warnings={}, os_version=10.0, browserstack.appium_version=1.17.0, mobile={browser=mobile, version=Samsung Galaxy S20 Plus-10.0}, databaseEnabled=false, orig_os=android, locationContextEnabled=false, deviceOrientation=portrait, deviceModel=SM-G986B, chromeOptions={args=[--proxy-bypass-list=<-loopback>, test-type, --proxy-server=http://65.74.144.36:26085, --disable-features=Translate], w3c=false}}]
+Session ID: 1a20862a88c20e77d05e7dfa080a7c829371b838
+*** Element info: {Using=xpath, value=//*[@id="y_outbound"]/div/div/div[3]/div[1]/div[3]/div[2]/ul[1]/li/div[1]/div[2]/div/div/div/label}
+2021-12-20 19:40:56 INFO  Base:669 - Exception: Select Prepaid option on Fare Selection Page
+2021-12-20 19:41:12 INFO  Base:860 - element not interactable
+  (Session info: chrome=94.0.4606.61)
+  (Driver info: chromedriver=94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}),platform=Linux 4.1.13-101.fc21.x86_64 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.29 seconds
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'BCFS33487', ip: '172.16.193.77', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.android.chrome, chromedriverPorts=[[18155.0, 18165.0]], deviceName=R5CN211ZNYZ, acceptSslCerts=false, webStorageEnabled=false, acceptSslCert=false, browserName=chrome, javascriptEnabled=true, real_mobile=true, skipServerInstallation=true, 64bit=false, enablePerformanceLogging=false, systemPort=8205.0, chromedriverPort=18085.0, new_bucketing=true, version=, appActivity=com.google.android.apps.chrome.Main, browser_name=Android, realMobile=true, pixelRatio=2.8125, deviceScreenDensity=450.0, device=Samsung Galaxy S20 Plus, browserstack.is_hub_canary=false, statBarHeight=72.0, loggingPrefs={browser=SEVERE}, viewportRect={top=72.0, left=0.0, width=1080.0, height=2120.0}, platform=ANDROID, deviceUDID=R5CN211ZNYZ, osVersion=10.0, detected_language=Apache-HttpClient/4.5.3 (Java/1.8.0_291), newCommandTimeout=0.0, browser=chrome_android, platformVersion=10, takesScreenshot=true, udid=R5CN211ZNYZ, platformName=Android, deviceApiLevel=29.0, deviceManufacturer=samsung, deviceScreenSize=1080x2400, networkConnectionEnabled=true, orientation=PORTRAIT, warnings={}, os_version=10.0, browserstack.appium_version=1.17.0, mobile={browser=mobile, version=Samsung Galaxy S20 Plus-10.0}, databaseEnabled=false, orig_os=android, locationContextEnabled=false, deviceOrientation=portrait, deviceModel=SM-G986B, chromeOptions={args=[--proxy-bypass-list=<-loopback>, test-type, --proxy-server=http://65.74.144.36:26085, --disable-features=Translate], w3c=false}}]
+Session ID: 1a20862a88c20e77d05e7dfa080a7c829371b838
+2021-12-20 19:41:12 INFO  Base:861 - Exception: Select View Return Fares on Fare Selection Page

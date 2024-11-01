@@ -1,0 +1,15 @@
+2021-12-27 12:50:03 INFO  Base:178 - Setting browser name to 'Chrome' on 'Desktop' device
+2021-12-27 12:50:05 INFO  Base:104 - Launched chrome browser
+2021-12-27 12:50:05 INFO  Base:154 - Waiting for 1 seconds to launch the URL
+2021-12-27 12:50:06 INFO  Base:156 - Enter the URL 'https://www.bcferries.com/'
+2021-12-27 12:50:39 INFO  Base:133 - no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ui-id-6']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'DESKTOP-2Q44BFK', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}), userDataDir=C:\Users\USER\AppData\Local\Temp\scoped_dir31276_1949146765}, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=none, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=ANY, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:52636}, webauthn:extension:credBlob=true, acceptInsecureCerts=false, browserVersion=96.0.4664.110, browserName=chrome, javascriptEnabled=true, platformName=windows, setWindowRect=true, webauthn:extension:largeBlob=true, webauthn:virtualAuthenticators=true}]
+Session ID: aa8ce663ae7328c638bb06c06a56ea07
+*** Element info: {Using=xpath, value=//*[@id='ui-id-6']}
+2021-12-27 12:50:39 INFO  Base:134 - Exception: Entering to Location
+2021-12-27 12:51:24 INFO  Base:1406 - Closing the Application

@@ -1,0 +1,4 @@
+2021-10-21 19:49:06 INFO  Base:175 - Setting browser name to 'Chrome' on 'Android' device
+2021-10-21 19:49:06 INFO  Base:28 - JP Log - Android Driver capability instantiation
+2021-10-21 19:49:21 INFO  Base:49 - Android Driver just instantiated
+2021-10-21 19:49:21 INFO  Base:59 - Public URL launched is: 'http://www.cnn.com'

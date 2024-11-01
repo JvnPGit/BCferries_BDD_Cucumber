@@ -1,0 +1,22 @@
+2022-02-11 20:22:13 INFO  Base:178 - Setting browser name to 'Chrome' on 'Desktop' device
+2022-02-11 20:22:16 INFO  Base:106 - Driver instantiation exception
+2022-02-11 20:22:16 INFO  Base:104 - Launched chrome browser
+2022-02-11 20:22:16 INFO  Base:109 - Exception launching browser
+2022-02-11 20:22:16 INFO  Base:154 - Waiting for 1 seconds to launch the URL
+2022-02-11 20:22:17 INFO  Base:156 - Enter the URL 'https://www.bcferries.com/'
+2022-02-11 20:22:17 INFO  Base:162 - Catch exception instantiating a browser null
+2022-02-11 20:22:17 INFO  Base:123 - Exception launching URL
+2022-02-11 20:22:20 INFO  Base:97 - 
+2022-02-11 20:22:20 INFO  Base:98 - Exception: Entering From Location
+2022-02-11 20:22:20 INFO  Base:57 - 
+2022-02-11 20:22:20 INFO  Base:58 - Exception: From Location is not Selected
+2022-02-11 20:22:21 INFO  Base:92 - 
+2022-02-11 20:22:21 INFO  Base:93 - Exception: Date of Travel is not Selected
+2022-02-11 20:22:26 INFO  Base:133 - 
+2022-02-11 20:22:26 INFO  Base:134 - Exception: Entering to Location
+2022-02-11 20:22:26 INFO  Base:74 - 
+2022-02-11 20:22:26 INFO  Base:75 - Exception: To Location is not Selected
+2022-02-11 20:22:28 INFO  Base:281 - 
+2022-02-11 20:22:28 INFO  Base:282 - Exception: Continue Button in Home Page is not Clicked
+2022-02-11 20:22:30 INFO  Base:440 - 
+2022-02-11 20:22:30 INFO  Base:441 - Exception: 1x Adults Passenger in Passengers Page is not Incremented

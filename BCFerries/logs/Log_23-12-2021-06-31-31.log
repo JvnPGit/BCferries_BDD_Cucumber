@@ -1,0 +1,20 @@
+2021-12-23 18:31:32 INFO  Base:178 - Setting browser name to 'Chrome' on 'Desktop' device
+2021-12-23 18:31:34 INFO  Base:106 - Driver instantiation exception
+2021-12-23 18:31:34 INFO  Base:104 - Launched chrome browser
+2021-12-23 18:31:34 INFO  Base:109 - Exception launching browser
+2021-12-23 18:31:34 INFO  Base:154 - Waiting for 1 seconds to launch the URL
+2021-12-23 18:31:35 INFO  Base:156 - Enter the URL 'https://ffdei.uat.bcferries.corp/'
+2021-12-23 18:31:35 INFO  Base:162 - Catch exception instantiating a browser null
+2021-12-23 18:31:35 INFO  Base:123 - Exception launching URL
+2021-12-23 18:31:38 INFO  Base:97 - 
+2021-12-23 18:31:38 INFO  Base:98 - Exception: Entering From Location
+2021-12-23 18:31:38 INFO  Base:57 - 
+2021-12-23 18:31:38 INFO  Base:58 - Exception: From Location is not Selected
+2021-12-23 18:31:39 INFO  Base:92 - 
+2021-12-23 18:31:39 INFO  Base:93 - Exception: Date of Travel is not Selected
+2021-12-23 18:31:44 INFO  Base:133 - 
+2021-12-23 18:31:44 INFO  Base:134 - Exception: Entering to Location
+2021-12-23 18:31:44 INFO  Base:74 - 
+2021-12-23 18:31:44 INFO  Base:75 - Exception: To Location is not Selected
+2021-12-23 18:31:46 INFO  Base:281 - 
+2021-12-23 18:31:46 INFO  Base:282 - Exception: Continue Button in Home Page is not Clicked

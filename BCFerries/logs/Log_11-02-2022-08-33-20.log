@@ -1,0 +1,6 @@
+2022-02-11 20:33:21 INFO  Base:35 - Remote WebDriver capability instantiation
+2022-02-11 20:33:36 INFO  Base:55 - Remote WebDriver is instantiated
+2022-02-11 20:33:36 INFO  Base:104 - Launched chrome browser
+2022-02-11 20:33:37 INFO  Base:154 - Waiting for 1 seconds to launch the URL
+2022-02-11 20:33:38 INFO  Base:156 - Enter the URL 'https://www.bcferries.com/'
+2022-02-11 20:36:43 INFO  Base:1406 - Closing the Application

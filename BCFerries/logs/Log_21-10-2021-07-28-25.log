@@ -1,0 +1,24 @@
+2021-10-21 19:28:26 INFO  Base:105 - Launched chrome browser
+2021-10-21 19:28:26 INFO  Base:110 - Exception launching browser
+2021-10-21 19:28:26 INFO  Base:151 - Waiting for 1 seconds to launch the URL
+2021-10-21 19:28:27 INFO  Base:153 - Enter the URL 'https://www.bcferries.com/'
+2021-10-21 19:28:27 INFO  Base:159 - Catch exception instantiating a browser null
+2021-10-21 19:28:27 INFO  Base:124 - Exception launching URL
+2021-10-21 19:28:29 INFO  Base:49 - 
+2021-10-21 19:28:29 INFO  Base:50 - Exception: Entering From Location
+2021-10-21 19:28:31 INFO  Base:67 - 
+2021-10-21 19:28:31 INFO  Base:68 - Exception: Entering To Location
+2021-10-21 19:28:33 INFO  Base:85 - 
+2021-10-21 19:28:33 INFO  Base:86 - Exception: Select Date of Travel
+2021-10-21 19:28:35 INFO  Base:102 - 
+2021-10-21 19:28:35 INFO  Base:103 - Exception: Click on Continue button for Home Page
+2021-10-21 19:28:37 INFO  Base:118 - 
+2021-10-21 19:28:37 INFO  Base:119 - Exception: Increment number of Adults travelling on Passengers Page
+2021-10-21 19:28:39 INFO  Base:133 - 
+2021-10-21 19:28:39 INFO  Base:134 - Exception: Increment number of Children travelling on Passengers Page
+2021-10-21 19:28:41 INFO  Base:150 - 
+2021-10-21 19:28:41 INFO  Base:151 - Exception: Click on Continue button for Passengers Page
+2021-10-21 19:28:43 INFO  Base:166 - 
+2021-10-21 19:28:43 INFO  Base:167 - Exception: Select Vehicle height on Vehicle Selection Page
+2021-10-21 19:28:45 INFO  Base:181 - 
+2021-10-21 19:28:45 INFO  Base:182 - Exception: Select Vehicle Length on Vehicle Selection Page

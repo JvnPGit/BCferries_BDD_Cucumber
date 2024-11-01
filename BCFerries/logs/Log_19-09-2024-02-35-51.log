@@ -1,0 +1,24 @@
+2024-09-19 14:35:52 INFO  Base:35 - Remote WebDriver capability instantiation
+2024-09-19 14:35:55 INFO  Base:58 - Error performing Appium test: Your Automate plan has expired (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.15 seconds
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'LAPTOP-QVTLIGA0', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: driver.version: RemoteWebDriver
+2024-09-19 14:35:55 INFO  Base:128 - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null
+2024-09-19 14:35:55 INFO  Base:129 - Failed to capture screenshot
+2024-09-19 14:35:56 INFO  Base:104 - Launched chrome browser
+2024-09-19 14:35:56 INFO  Base:109 - Exception launching browser
+2024-09-19 14:35:56 INFO  Base:154 - Waiting for 1 seconds to launch the URL
+2024-09-19 14:35:57 INFO  Base:156 - Enter the URL 'https://www.bcferries.com/'
+2024-09-19 14:35:57 INFO  Base:162 - Catch exception instantiating a browser Cannot invoke "org.openqa.selenium.remote.RemoteWebDriver.get(String)" because "driver" is null
+2024-09-19 14:35:57 INFO  Base:123 - Exception launching URL
+2024-09-19 14:35:58 INFO  Base:98 - Cannot invoke "org.openqa.selenium.remote.RemoteWebDriver.manage()" because "com.cucumberbdd.BCFerries_Web.HomePage_Web.driver" is null
+2024-09-19 14:35:58 INFO  Base:99 - Exception: Entering From Location
+2024-09-19 14:35:58 INFO  Base:57 - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "screen" is null
+2024-09-19 14:35:58 INFO  Base:58 - Exception: From Location is not Selected
+2024-09-19 14:35:59 INFO  Base:166 - Cannot invoke "org.openqa.selenium.remote.RemoteWebDriver.manage()" because "com.cucumberbdd.BCFerries_Web.HomePage_Web.driver" is null
+2024-09-19 14:35:59 INFO  Base:167 - Exception: Entering to Location
+2024-09-19 14:35:59 INFO  Base:74 - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "screen" is null
+2024-09-19 14:35:59 INFO  Base:75 - Exception: To Location is not Selected
+2024-09-19 14:36:00 INFO  Base:93 - Cannot invoke "org.openqa.selenium.remote.RemoteWebDriver.findElement(org.openqa.selenium.By)" because "com.cucumberbdd.BCFerries_Web.HomePage_Web.driver" is null
+2024-09-19 14:36:00 INFO  Base:94 - Exception: Date of Travel is not Selected

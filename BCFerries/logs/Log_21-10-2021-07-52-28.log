@@ -1,0 +1,14 @@
+2021-10-21 19:52:29 INFO  Base:175 - Setting browser name to 'Chrome' on 'Android' device
+2021-10-21 19:52:29 INFO  Base:28 - JP Log - Android Driver capability instantiation
+2021-10-21 19:52:46 INFO  Base:49 - Android Driver just instantiated
+2021-10-21 19:52:46 INFO  Base:104 - Launched chrome browser
+2021-10-21 19:52:46 INFO  Base:151 - Waiting for 1 seconds to launch the URL
+2021-10-21 19:52:47 INFO  Base:153 - Enter the URL 'https://www.bcferries.com/'
+2021-10-21 19:52:57 INFO  Base:50 - 
+2021-10-21 19:52:57 INFO  Base:51 - Exception: Entering From Location
+2021-10-21 19:52:59 INFO  Base:68 - 
+2021-10-21 19:52:59 INFO  Base:69 - Exception: Entering To Location
+2021-10-21 19:53:01 INFO  Base:86 - 
+2021-10-21 19:53:01 INFO  Base:87 - Exception: Select Date of Travel
+2021-10-21 19:53:03 INFO  Base:103 - 
+2021-10-21 19:53:03 INFO  Base:104 - Exception: Click on Continue button for Home Page

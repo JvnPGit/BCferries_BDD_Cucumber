@@ -1,0 +1,45 @@
+2021-12-20 15:54:40 INFO  Base:35 - Remote WebDriver capability instantiation
+2021-12-20 15:54:42 INFO  Base:58 - Error performing Appium test: You don't have access to BrowserStack Automate. Request owner or admin for access. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.31 seconds
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'BCFS33487', ip: '172.16.193.77', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: driver.version: RemoteWebDriver
+2021-12-20 15:54:42 INFO  Base:128 - 
+2021-12-20 15:54:42 INFO  Base:129 - Failed to capture screenshot
+2021-12-20 15:54:43 INFO  Base:104 - Launched chrome browser
+2021-12-20 15:54:43 INFO  Base:109 - Exception launching browser
+2021-12-20 15:54:43 INFO  Base:154 - Waiting for 1 seconds to launch the URL
+2021-12-20 15:54:44 INFO  Base:156 - Enter the URL 'https://ffdei.uat.bcferries.corp/'
+2021-12-20 15:54:44 INFO  Base:162 - Catch exception instantiating a browser null
+2021-12-20 15:54:44 INFO  Base:123 - Exception launching URL
+2021-12-20 15:54:47 INFO  Base:97 - 
+2021-12-20 15:54:47 INFO  Base:98 - Exception: Entering From Location
+2021-12-20 15:54:47 INFO  Base:49 - 
+2021-12-20 15:54:47 INFO  Base:50 - Exception: Entering From Location
+2021-12-20 15:54:48 INFO  Base:85 - 
+2021-12-20 15:54:48 INFO  Base:86 - Exception: Select Date of Travel
+2021-12-20 15:54:48 INFO  Base:134 - 
+2021-12-20 15:54:48 INFO  Base:135 - Exception: Entering to Location
+2021-12-20 15:54:48 INFO  Base:67 - 
+2021-12-20 15:54:48 INFO  Base:68 - Exception: Entering To Location
+2021-12-20 15:54:49 INFO  Base:121 - 
+2021-12-20 15:54:49 INFO  Base:122 - Exception: Click on Continue button for Home Page
+2021-12-20 15:54:51 INFO  Base:137 - 
+2021-12-20 15:54:51 INFO  Base:138 - Exception: Increment number of Adults travelling on Passengers Page
+2021-12-20 15:54:53 INFO  Base:447 - 
+2021-12-20 15:54:53 INFO  Base:448 - Exception: Increment number of Children travelling on Passengers Page
+2021-12-20 15:54:55 INFO  Base:509 - 
+2021-12-20 15:54:55 INFO  Base:510 - Exception: Click on Continue button for Passengers Page
+2021-12-20 15:54:57 INFO  Base:542 - 
+2021-12-20 15:54:57 INFO  Base:543 - Exception: Select Vehicle height on Vehicle Selection Page
+2021-12-20 15:54:59 INFO  Base:572 - 
+2021-12-20 15:54:59 INFO  Base:573 - Exception: Select Vehicle Length on Vehicle Selection Page
+2021-12-20 15:55:01 INFO  Base:605 - 
+2021-12-20 15:55:01 INFO  Base:606 - Exception: Click on Continue button for Vehicles Page
+2021-12-20 15:55:07 INFO  Base:621 - 
+2021-12-20 15:55:07 INFO  Base:622 - Exception: Select View Fares on Fare Selection Page
+2021-12-20 15:55:10 INFO  Base:636 - 
+2021-12-20 15:55:10 INFO  Base:637 - Exception: Select Prepaid option on Fare Selection Page
+2021-12-20 15:55:11 INFO  Base:653 - 
+2021-12-20 15:55:11 INFO  Base:654 - Exception: Verify if the User is on Fare Selection Review page
+2021-12-20 15:55:11 INFO  Base:782 - Closing the Application

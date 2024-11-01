@@ -1,0 +1,24 @@
+2024-09-19 19:56:11 INFO  Base:35 - Remote WebDriver capability instantiation
+2024-09-19 19:56:13 INFO  Base:58 - Error performing Appium test: Your Automate plan has expired (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.95 seconds
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'LAPTOP-QVTLIGA0', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: driver.version: RemoteWebDriver
+2024-09-19 19:56:13 INFO  Base:128 - 
+2024-09-19 19:56:13 INFO  Base:129 - Failed to capture screenshot
+2024-09-19 19:56:14 INFO  Base:104 - Launched chrome browser
+2024-09-19 19:56:14 INFO  Base:109 - Exception launching browser
+2024-09-19 19:56:14 INFO  Base:154 - Waiting for 1 seconds to launch the URL
+2024-09-19 19:56:15 INFO  Base:156 - Enter the URL 'https://www.bcferries.com/'
+2024-09-19 19:56:15 INFO  Base:162 - Catch exception instantiating a browser null
+2024-09-19 19:56:15 INFO  Base:123 - Exception launching URL
+2024-09-19 19:56:17 INFO  Base:98 - 
+2024-09-19 19:56:17 INFO  Base:99 - Exception: Entering From Location
+2024-09-19 19:56:17 INFO  Base:57 - 
+2024-09-19 19:56:17 INFO  Base:58 - Exception: From Location is not Selected
+2024-09-19 19:56:18 INFO  Base:166 - 
+2024-09-19 19:56:18 INFO  Base:167 - Exception: Entering to Location
+2024-09-19 19:56:18 INFO  Base:74 - 
+2024-09-19 19:56:18 INFO  Base:75 - Exception: To Location is not Selected
+2024-09-19 19:56:19 INFO  Base:93 - 
+2024-09-19 19:56:19 INFO  Base:94 - Exception: Date of Travel is not Selected

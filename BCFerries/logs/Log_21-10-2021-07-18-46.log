@@ -1,0 +1,43 @@
+2021-10-21 19:18:47 INFO  Base:175 - Setting browser name to 'Chrome' on 'Android' device
+2021-10-21 19:18:47 INFO  Base:26 - JP Log - Android Driver capability instantiation
+2021-10-21 19:19:08 INFO  Base:54 - Error performing Appium test: unknown command: Cannot call non W3C standard command while in W3C mode
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'DESKTOP-2Q44BFK', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.android.chrome, statBarHeight=172.0, viewportRect={top=172.0, left=0.0, width=1440.0, height=2529.0}, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, desired={newCommandTimeout=360.0, automationName=Appium, browserName=Chrome, platformName=Android, deviceName=Pixel_4_XL_API_30}, newCommandTimeout=360.0, platformVersion=11, webStorageEnabled=false, automationName=Appium, takesScreenshot=true, browserName=Chrome, javascriptEnabled=true, platformName=Android, deviceApiLevel=30.0, deviceManufacturer=Google, deviceScreenSize=1440x3040, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, appActivity=com.google.android.apps.chrome.Main, pixelRatio=3.5, locationContextEnabled=false, deviceScreenDensity=560.0, deviceModel=sdk_gphone_x86_arm}]
+Session ID: 4f8712b9-82da-4652-a30c-52cea030d6a7
+2021-10-21 19:19:08 INFO  Base:128 - 
+2021-10-21 19:19:08 INFO  Base:129 - Failed to capture screenshot
+2021-10-21 19:19:09 INFO  Base:104 - Launched chrome browser
+2021-10-21 19:19:09 INFO  Base:109 - Exception launching browser
+2021-10-21 19:19:09 INFO  Base:151 - Waiting for 1 seconds to launch the URL
+2021-10-21 19:19:10 INFO  Base:153 - Enter the URL 'https://www.bcferries.com/'
+2021-10-21 19:19:10 INFO  Base:159 - Catch exception instantiating a browser null
+2021-10-21 19:19:10 INFO  Base:123 - Exception launching URL
+2021-10-21 19:19:12 INFO  Base:49 - 
+2021-10-21 19:19:12 INFO  Base:50 - Exception: Entering From Location
+2021-10-21 19:19:14 INFO  Base:67 - 
+2021-10-21 19:19:14 INFO  Base:68 - Exception: Entering To Location
+2021-10-21 19:19:16 INFO  Base:85 - 
+2021-10-21 19:19:16 INFO  Base:86 - Exception: Select Date of Travel
+2021-10-21 19:19:18 INFO  Base:102 - 
+2021-10-21 19:19:18 INFO  Base:103 - Exception: Click on Continue button for Home Page
+2021-10-21 19:19:20 INFO  Base:118 - 
+2021-10-21 19:19:20 INFO  Base:119 - Exception: Increment number of Adults travelling on Passengers Page
+2021-10-21 19:19:22 INFO  Base:133 - 
+2021-10-21 19:19:22 INFO  Base:134 - Exception: Increment number of Children travelling on Passengers Page
+2021-10-21 19:19:24 INFO  Base:150 - 
+2021-10-21 19:19:24 INFO  Base:151 - Exception: Click on Continue button for Passengers Page
+2021-10-21 19:19:26 INFO  Base:166 - 
+2021-10-21 19:19:26 INFO  Base:167 - Exception: Select Vehicle height on Vehicle Selection Page
+2021-10-21 19:19:28 INFO  Base:181 - 
+2021-10-21 19:19:28 INFO  Base:182 - Exception: Select Vehicle Length on Vehicle Selection Page
+2021-10-21 19:19:30 INFO  Base:199 - 
+2021-10-21 19:19:30 INFO  Base:200 - Exception: Click on Continue button for Vehicles Page
+2021-10-21 19:19:32 INFO  Base:215 - 
+2021-10-21 19:19:32 INFO  Base:216 - Exception: Select View Fares on Fare Selection Page
+2021-10-21 19:19:35 INFO  Base:230 - 
+2021-10-21 19:19:35 INFO  Base:231 - Exception: Select Prepaid option on Fare Selection Page
+2021-10-21 19:19:36 INFO  Base:247 - 
+2021-10-21 19:19:36 INFO  Base:248 - Exception: Verify if the User is on Fare Selection Review page
+2021-10-21 19:19:36 INFO  Base:255 - Closing the Application
